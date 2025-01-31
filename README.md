@@ -7,6 +7,10 @@
 https://github.com/user-attachments/assets/4cd3d94c-505b-4a0e-8530-7d5931052ffa
 
 
-  ___________________________________
+
+  
+  
+  AFTER CLONING : 
+  
  *******  press space to sart  *******
    -------------------------------
