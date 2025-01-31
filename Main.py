@@ -63,7 +63,7 @@ def init():
     ax.set_xlim([-radius * 3, radius * 3])
     ax.set_ylim([-radius * 3, radius * 3])
     ax.set_zlim([-radius * 3, radius * 3])
-    ax.set_axis_off()  # Hides the axes entirely
+    #ax.set_axis_off()  # Hides the axes entirely
 
     # Set initial positions
     sc_uranium._offsets3d = ([], [], [])
